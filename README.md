@@ -12,11 +12,13 @@ Welcome to my Login app!
 
 5)Also inside the public folder replace the index.html file with my index.html file.
 
-6)Then if all files are set you will see my app at http://localhost:3000/ in your browser.
+6)Then if all files are set you will see my app at http://localhost:3000/ in your browser. You can try to Login with the username: react@hotmail.com and password: react1
 
 PS. Inside the App.js file you will see a piece of code as a comment. This piece of code is for displaying the data from firebase but i couldn't finish this task.
 
 PS2. If you face any problem with connecting to my Firebase database, you have to create your database and connect it with the rest of the files with the same way, that my database is configured.
+
+PS3.This is how my database is in case you can't connect with it.
 
 ![Firebase](https://user-images.githubusercontent.com/17316318/121056971-7331e080-c7c7-11eb-9d41-bb68ba65cc1f.png)
 
