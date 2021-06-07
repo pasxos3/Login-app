@@ -18,4 +18,5 @@ PS. Inside the App.js file you will see a piece of code as a comment. This piece
 
 PS2. If you face any problem with connecting to my Firebase database, you have to create your database and connect it with the rest of the files with the same way, that my database is configured.
 
+![Firebase](https://user-images.githubusercontent.com/17316318/121056971-7331e080-c7c7-11eb-9d41-bb68ba65cc1f.png)
 
